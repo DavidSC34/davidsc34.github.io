@@ -1,0 +1,23 @@
+commit edb5eabe63b556ac3d04d15b8f325d7a6cab8da4
+Author: DavidSC34 <57683822+DavidSC34@users.noreply.github.com>
+Date:   Tue Nov 12 13:18:43 2019 -0600
+
+    Create README.md
+
+commit 6e5dad2b1938c711a7185f4bf9e2a45da84d59c8
+Author: DavidSC <david@wbcboxing.com>
+Date:   Tue Nov 12 12:50:44 2019 -0600
+
+    he agregado un .gitignore
+
+commit fbd074327b0668dbc65b308ad549947fe6e6d77e
+Author: DavidSC <david@wbcboxing.com>
+Date:   Tue Nov 12 12:43:27 2019 -0600
+
+    ahora el index cambio el Titulo
+
+commit 28bbb375df831c32360f82b05dafe19996cbe64d
+Author: DavidSC <david@wbcboxing.com>
+Date:   Tue Nov 12 12:29:07 2019 -0600
+
+    Mi primer commit

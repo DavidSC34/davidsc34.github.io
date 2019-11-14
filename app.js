@@ -1,0 +1,1 @@
+console.log('Console salida de texto');
